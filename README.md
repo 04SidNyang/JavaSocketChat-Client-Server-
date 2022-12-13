@@ -4,5 +4,5 @@
 <img src="./JavaSocketChat(Client-Server).png" alt="sample">
 
 Execution order
-1. A_ServerMain.java
+1. A_ServerMain
 2. Main
